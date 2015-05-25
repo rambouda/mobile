@@ -1,0 +1,93 @@
+
+div {
+	border: 1px solid;
+	border-radius: 5px;
+	height: 30px;
+	width: 150px;
+	text-align: center;
+	background-color: lightgreen;
+}
+
+h1, h2, h3{
+	text-align: center;
+	
+}
+h1 {
+	color: green;
+	text-transform: uppercase;
+	
+}
+h3 {
+	text-transform: capitalize;
+	margin-top: 2em;
+	
+}
+.main {
+
+}
+
+nav {
+	text-align: center;
+	margin-top: 5em;
+}
+ul li{
+	display: inline-block;
+
+}
+
+li a {
+	text-decoration: none;
+	color: #000;
+	background-color: lightgreen;
+	border: 1px solid;
+	padding: 10px 20px;
+}
+li a:hover{
+	
+	color: red;
+	background-color: grey;
+}
+footer {
+	width: 100%;
+	height: 4em;
+	background-color: grey;
+	color: #fff;
+	text-align: center;
+	line-height: 4em;
+	margin-top: 2em;
+}
+
+form {
+	text-align: center;
+}
+input {
+	margin: 10px;
+	border-radius: 2px;
+}
+
+img {
+	margin: 0 auto;
+}
+
+div {
+	margin: 0 auto;
+	width: 10em;
+	height: 5em;
+	margin-bottom: 10px;
+	background-color: lightgreen;
+	line-height: 5em;
+	font-size: 25px;
+	text-align: center;
+	cursor: pointer;
+}
+#bouton1 {
+	margin: 0 auto;
+	width: 100px;
+	height: 2.5em;
+	line-height: 2.5em;
+	font-size: 20px;
+	background-color: lightgreen;
+	border: 1px solid;
+	margin-bottom: 1em;
+}
+
